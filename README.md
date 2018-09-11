@@ -19,8 +19,7 @@ Hay un directorio para cada unidad didáctica (o capítulo del proyecto), con la
 ```
 
 - En el directorio `actas-reuniones` recogeréis las actas de las reuniones que el equipo base realice fuera de clase. Podéis ver más información sobre la estructura y formato de estas actas en el [modelo de acta](1-estrategia/actas-reuniones/2018MMDD.md). Un acta por reunión.
-- El directorio `evaluaciones` estará presente solamente en el branch `evaluaciones-minombre` del fork en tu cuenta personal del repositorio del equipo. En ese branch de tu fork (y no en `master` ni en el repositorio central del equipo) deberás incluir las autoevaluaciones correspondientes a cada una de las reuniones que celebre el equipo base: un archivo por reunión. 
-    + Utiliza el archivo `MiApellidoMiNombre-2018MMDD.xlsx` como base. Haz checkout de tu branch de evaluaciones, copia y pega el archivo base, y renómbralo (por ejemplo, `BerasategiMiren-20180910.xlsx`). Rellena la hoja de cálculo tal y como se indica en el mismo documento con tus evaluaciones para la reunión y guárdalo. Después, recuerda hacer commit y push (de tu branch `evaluaciones-minombre`).
+- El directorio `evaluaciones` estará presente solamente en el branch `evaluaciones-minombre` del fork en tu cuenta personal del repositorio del equipo. Más información en el `README.md` del branch modelo `evaluaciones-minombre`.
 - En el directorio `img` recogeréis las imágenes que vayáis a incorporar a vuestro contenido.
 - El archivo `README.md` será el que contenga el contenido de la sección o capítulo en sí.
 
