@@ -1,0 +1,3 @@
+# Plano de estrategia
+
+## Referencias
