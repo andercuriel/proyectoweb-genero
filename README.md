@@ -37,16 +37,21 @@ Antes de empezar con el primer borrador, cada miembro del grupo deberá hacer un
 2. (EN CONSTRUCCIÓN) Realizad una división preliminar del archivo `README.md` correspondiente, con un apartado al que vaya a contribuir cada usuario.
 2. Actualiza tu copia personal con las últimas modificaciones del repositorio central (tenéis [instrucciones](https://deustopweb2018.github.io/actualizar-fork) si os hacen falta)
 3. Crea un nuevo branch en tu fork, con tu nombre de usuario y el nombre del plano en el que vas a trabajar (por ejemplo, `mberasategi-estrategia`).
-4. Trabaja en tu equipo sobre ese documento realizando las modificaciones correspondientes en el apartado que vayas a trabajar tú del documento `README.md`. Recuerda hacer commit para confirmar tus cambios, y push para enviarlos a tu copia en la nube.
+4. Trabaja en tu ordenador sobre ese documento, realizando las modificaciones correspondientes en el apartado que vayas a trabajar tú del documento `README.md`. Recuerda hacer commit para confirmar tus cambios, y push para enviarlos a tu copia personal en la nube.
 5. Cuando hayas avanzado lo suficiente en tu trabajo como para compartirlo con tus compañeros, inicia un pull request en el repositorio central:
     - clic en **compare across forks**
     - **Base fork** debe ser el repositorio central (en DeustoPWEB2018), branch `master`
     - **Head fork** debe ser tu fork personal, branch `tunombre-plano`
+    -  En la barra lateral derecha, establece como **Reviewer** a la persona encargada del Control para este plano.
+6. Cuando tu aportación personal esté lo suficientemente avanzada y finalizada como para incluirse en el borrador, y tenga el visto bueno de la persona de Control, la persona de Coordinación hará merge de tus cambios. 
+7. Recuerda [actualizar tu fork personal](https://deustopweb2018.github.io/actualizar-fork) una vez tus cambios estén combinados con el repositorio central, y una vez más cuando hayáis realizado la entrega del borrador.
 
 ...
 
 
 ----------------
+
+(vuestra introducción)
 
 ## Tabla de contenidos
 
