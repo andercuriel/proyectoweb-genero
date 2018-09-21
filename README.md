@@ -4,7 +4,7 @@
 
 Repositorio tipo para el proyecto en equipos base. En este repositorio alojaréis el proyecto web de vuestro grupo para la asignatura Proyectos para la web.
 
-:point_left: [Instrucciones para el uso del repositorio del proyecto web](instrucciones.md) :point_right:
+:point_right: [Instrucciones para el uso del repositorio del proyecto web](instrucciones.md) :point_left:
 
 Este archivo `README.md` en la raíz del repositorio debería contener la introducción, presentación del proyecto etc.
 
