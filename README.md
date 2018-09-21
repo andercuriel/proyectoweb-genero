@@ -56,10 +56,10 @@ Antes de empezar con el primer borrador, cada miembro del grupo deberá hacer un
 ## Tabla de contenidos
 
 1. [Estrategia](1-estrategia/README.md)
-2. Alcance
-3. Estructura
-4. Esqueleto
-5. Superficie
+2. [Alcance](2-alcance/README.md)
+3. [Estructura](3-estructura/README.md)
+4. [Esqueleto](4-esqueleto/README.md)
+5. [Superficie](5-superficie/README.md)
 
 ## Participantes en el equipo
 
