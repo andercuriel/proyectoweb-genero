@@ -38,6 +38,12 @@ Antes de empezar con el primer borrador, cada miembro del grupo deberá hacer un
     - **Head fork** debe ser tu fork personal, branch `tunombre-plano`
     -  En la barra lateral derecha, establece como **Reviewer** a la persona encargada del Control para este plano.
 6. Cuando tu aportación personal esté lo suficientemente avanzada y finalizada como para incluirse en el borrador, y tenga el visto bueno de la persona de Control, la persona de Coordinación hará merge de tus cambios. 
-7. Recuerda [actualizar tu fork personal](https://deustopweb2018.github.io/actualizar-fork) una vez tus cambios estén combinados con el repositorio central, y una vez más cuando hayáis realizado la entrega del borrador.
+    - Recuerda [actualizar tu fork personal](https://deustopweb2018.github.io/actualizar-fork) una vez tus cambios estén combinados con el repositorio central, y una vez más cuando hayáis realizado la entrega del borrador.
+7. Cuando todas las aportaciones estén combinadas (merge) y el borrador esté listo para entregar, la persona encargada de Comunicación creará un release mediante `https://github.com/DeustoPWEB2018/<grupo0-tema>/releases/new`:
+    - **Tag version**: _1.0_ para el plano de Estrategia, _2.0_ para el de Alcance, y así sucesivamente
+    - **Release title**: título del plano, por ejemplo, _Plano de Estrategia_
+    - En **Describe this release** podéis incluir comentarios sobre el borrador, como áreas que consideráis que requieren más trabajo, o cualquier otra anotación que queráis añadir a vuestra entrega
+    - Clic en **Publish this release**
+    - Enviar la URL de la siguiente página a la entrega correspondiente en ALUD
 
 ...
