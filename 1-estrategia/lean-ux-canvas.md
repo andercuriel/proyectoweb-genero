@@ -4,16 +4,16 @@ Utiliza la plantilla de este documento para recoger vuestro Lean UX Canvas en el
 
 --------------
 
-<table markdown="1">
-    <tbody>
-        <tr>
-            <td markdown="1">
+<table markdown="1"><tbody><tr><td markdown="1">
+
 ## Problema
-            </td>
-            <td rowspan=2 markdown="1">
+
+</td><td rowspan=2 markdown="1">
+
 ## Ideas de soluciones
-            </td>
-            <td markdown="1">
+
+</td><td markdown="1">
+    
 ## Resultados
             </td>
         </tr>
