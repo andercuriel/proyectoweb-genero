@@ -4,7 +4,7 @@ Utiliza la plantilla de este documento para recoger vuestro Lean UX Canvas en el
 
 --------------
 
-<table>
+<table markdown="1">
     <tbody>
         <tr>
             <td>
