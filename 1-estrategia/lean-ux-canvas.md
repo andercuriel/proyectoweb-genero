@@ -6,34 +6,34 @@ Utiliza la plantilla de este documento para recoger vuestro Lean UX Canvas en el
 
 <table markdown="1"><tbody><tr><td markdown="1">
 
-## Problema
+**Problema**
 
 </td><td rowspan=2 markdown="1">
 
-## Ideas de soluciones
+**Ideas de soluciones**
 
 </td><td markdown="1">
 
-## Resultados
+**Resultados**
 
 </td></tr><tr><td markdown="1">
 
-## Usuarios
+**Usuarios**
 
 </td><td markdown="1">
 
-## Beneficios para los usuarios
+**Beneficios para los usuarios**
 
 </td></tr><tr><td markdown="1">
 
-## Hipótesis  
+**Hipótesis**  
 
 </td><td markdown="1">
 
-## ¿Qué es lo más importante que tenemos que aprender primero?
+**¿Qué es lo más importante que tenemos que aprender primero?**
 
 </td><td markdown="1">
 
-## ¿Cuál es el trabajo mínimo que tenemos que hacer para aprender lo siguiente más importante?
+**¿Cuál es el trabajo mínimo que tenemos que hacer para aprender lo siguiente más importante?**
 
 </td></tr></tbody></table>
