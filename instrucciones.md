@@ -2,10 +2,11 @@
 
 Accesos rápidos:
 
-- [Empezar a trabajar en una nuevo borrador](#cada-vez-que-empezemos-con-nuevo-apartado)
-- Cada vez que nos reunamos:
-    + [Recoger acta](#actas) (si eres la persona encargada de Secretaría)
-    + [Realizar las autoevaluaciones](#autoevaluaciones)
+:arrow_forward: [Empezar a trabajar en una nuevo borrador](#cada-vez-que-empezemos-con-nuevo-apartado)
+
+Cada vez que nos reunamos:
+:arrow_forward: [Recoger acta](#actas) (si eres la persona encargada de Secretaría)
+:arrow_forward: [Realizar las autoevaluaciones](#autoevaluaciones)
 
 ## Descripción del contenido del repositorio 
 
