@@ -96,3 +96,5 @@ Cada vez que os reunáis en equipos base, todos tendréis que realizar la autoev
     git push origin evaluaciones
     ```
 5. Vuelve a tu branch de trabajo para seguir generando el contenido que te corresponde en este borrador: `git checkout TUNOMBRE-TEMA`
+
+Estas autoevaluaciones no necesitan incorporarse al repositorio central, por lo que no es necesario que crees un pull request para esto. Las recogeré del repositorio personal de cada estudiante.
