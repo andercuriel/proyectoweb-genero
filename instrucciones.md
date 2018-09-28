@@ -59,3 +59,20 @@ Antes de empezar con el primer borrador, cada miembro del grupo deberá:
     - Clic en **Publish this release**
     - Enviar la URL de la siguiente página a la entrega correspondiente en ALUD
 9. Vuelve a actualizar tu copia personal (sigue [las instrucciones](https://deustopweb2018.github.io/actualizar-fork) si las necesitas) para tener en tu ordenador la versión que habéis entregado como borrador.
+
+## Registro de las reuniones presenciales del equipo base
+
+Podéis organizar el trabajo fuera del aula como os parezca más apropiado, pero necesitaréis varias reuniones presenciales del equipo base. **Cada vez que os reunáis**, tenéis que recoger un acta y realizar la autoevaluación.
+
+### Actas
+
+:memo: La persona encargada de Secretaría recogerá en un acta durante la reunión los temas tratados, las decisiones tomadas, las tareas a realizar etc. Estas actas hay que incorporarlas al repositorio del proyecto. Para esto:
+
+1. Asegúrate de que estás en tu branch de trabajo (`TUNOMBRE-TEMA`) con `git status`
+2. Genera un documento en el directorio `actas-reuniones` de la unidad correspondiente, siguiendo las indicaciones en [el acta de ejemplo](1-estrategia/actas-reuniones/2018MMDD.md). Redacta el acta en ese documento (utilizando Sublime) y guárdalo
+3. Vuelve a la terminal y
+    - añade el archivo recién creado: `git add .`
+    - haz commit: `git commit -m "Redacción del acta 2018MMDD.md"`
+    - publícalo en tu copia personal: `git push origin TUNOMBRE-TEMA`
+
+### Autoevaluaciones
