@@ -1,5 +1,12 @@
 # Cómo usar este repositorio para vuestro proyecto web
 
+Accesos rápidos:
+
+- [Empezar a trabajar en una nuevo borrador](#cada-vez-que-empezemos-con-nuevo-apartado)
+- Cada vez que nos reunamos:
+    + [Recoger acta](#actas) (si eres la persona encargada de Secretaría)
+    + [Realizar las autoevaluaciones](#autoevaluaciones)
+
 ## Descripción del contenido del repositorio 
 
 Hay un directorio para cada unidad didáctica (o capítulo del proyecto), con la siguiente estructura:
