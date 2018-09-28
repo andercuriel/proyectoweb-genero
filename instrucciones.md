@@ -9,15 +9,15 @@ Hay un directorio para cada unidad didáctica (o capítulo del proyecto), con la
 |_ actas-reuniones
 |   |_ 2018MMDD.md
 |   |_ ...
-|_ *evaluaciones                               [evaluaciones-minombre]
-|   |_ *MiApellidoMiNombre-2018MMDD.xlsx       [evaluaciones-minombre]
+|_ *evaluaciones                               [evaluaciones]
+|   |_ *MiApellidoMiNombre-2018MMDD.xlsx       [evaluaciones]
 |_ img
 |   |_ ...   
 |_ README.md
 ```
 
 - En el directorio `actas-reuniones` recogeréis las actas de las reuniones que el equipo base realice fuera de clase. Podéis ver más información sobre la estructura y formato de estas actas en el [modelo de acta](1-estrategia/actas-reuniones/2018MMDD.md). Un acta por reunión.
-- El directorio `evaluaciones` estará presente solamente en el branch `evaluaciones-minombre`. Más información en el `README.md` del branch modelo `evaluaciones-minombre`.
+- El directorio `evaluaciones` estará presente solamente en el branch `evaluaciones`. Más información en el `README.md` del branch modelo `evaluaciones`.
 - En el directorio `img` recogeréis las imágenes que vayáis a incorporar a vuestro contenido.
 - El archivo `README.md` será el que contenga el contenido de la sección o capítulo en sí.
 - El archivo `roles.md` debe recoger quién se encargará de cada tarea durante el tiempo en el que estéis trabajando en el borrador del plano correspondiente. 
@@ -76,3 +76,16 @@ Podéis organizar el trabajo fuera del aula como os parezca más apropiado, pero
     - publícalo en tu copia personal: `git push origin TUNOMBRE-TEMA`
 
 ### Autoevaluaciones
+
+Cada vez que os reunáis en equipos base, todos tendréis que realizar la autoevaluación propia y la de los demás miembros del equipo. Para esto, **al finalizar la reunión**:
+
+1. En la terminal, accede a tu copia del repositorio del proyecto y cámbiate al branch `evaluaciones`: `git checkout evaluaciones`
+2. Abre la carpeta en tu Explorador de archivos (Windows) o Finder (Mac). Verás que ahora, en lugar de mostrar los contenidos del proyecto, solamente tienes un directorio `evaluaciones`. Abre el archivo Excel que tienes en esa carpeta (`MiApellidoMiNombre-2018MMDD.xlsx`)
+3. Rellena en esa hoja de cálculo tus evaluaciones (para ti y el resto de miembros) de la reunión correspondiente, siguiendo las indicaciones que encontrarás en el mismo documento. Guárdalo modificando el nombre como corresponde, por ejemplo, `BerasategiMiren-20181002.xlsx`
+4. En la terminal, guarda, confirma y envía a tu copia personal en la nube los cambios realizados
+    ```
+    git add .
+    git commit -m "Evaluar reunión del día 20181002"
+    git push origin evaluaciones
+    ```
+5. Vuelve a tu branch de trabajo para seguir generando el contenido que te corresponde en este borrador: `git checkout TUNOMBRE-TEMA`
