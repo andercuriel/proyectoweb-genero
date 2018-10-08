@@ -35,27 +35,25 @@ Hay un directorio para cada unidad didáctica (o capítulo del proyecto), con la
 
 ### Solamente la primera vez
 
-Antes de empezar con el primer borrador, cada miembro del grupo deberá:
-
-1. hacer un fork del repositorio central (el que se encuentra en la [organización de la clase](https://github.com/DeustoPWEB2018)) a su cuenta personal (acceder al repositorio central con el navegador, y hacer clic en el botón **Fork**). 
-2. clonar su copia personal (el fork del repositorio central recién creado) a su ordenador (en la terminal, ubícate en el directorio donde guardes los repositorios de git y haz `git clone https://github.com/TUNOMBREDEUSUARIO/proyectoweb-VUESTROTEMA`). 
+Antes de empezar con el primer borrador, cada miembro del grupo deberá clonar el repositorio central recién creado a su ordenador (en la terminal, ubícate en el directorio donde guardes los repositorios de git y haz `git clone https://github.com/DeustpoPWEB2018/proyectoweb-VUESTROTEMA`). 
  
-**Cada persona realizará modificaciones solamente sobre este fork, nunca directamente sobre el repositorio central.**
+**Cada persona realizará modificaciones solamente sobre un branch en este repositorio, nunca directamente sobre el branch `master`.**
 
 ### Cada vez que empezemos con nuevo apartado
 
-1. En la primera reunión del equipo, asignad los roles para el trabajo durante la elaboración de este borrador.
-    - :memo: La persona encargada de Secretaría rellenará el documento `roles.md` de la unidad correspondiente con los nombres para cada rol.
-2. Realizad una división preliminar del archivo `README.md` correspondiente, y determinad a qué apartado va a contribuir cada persona. 
-    - :memo: La persona encargada de Secretaría recogerá estos apartados en el documento `README.md`
-2. Actualiza la copia personal de tu ordenador con las últimas modificaciones del repositorio central (tienes [instrucciones](https://deustopweb2018.github.io/actualizar-fork) si os hacen falta; en este caso no hace falta que sigas el paso 3)
+1. En la primera reunión del equipo, asignad los roles para el trabajo durante la elaboración de este borrador. :memo: La persona encargada de Secretaría deberá:
+    - rellenar el documento `roles.md` de la unidad correspondiente con los nombres para cada rol
+2. Realizad una división preliminar del archivo `README.md` correspondiente, y determinad a qué apartado va a contribuir cada persona. :memo: La persona encargada de Secretaría deberá:
+    - recoger estos apartados en el documento `README.md`
+    - publicar estos dos cambios en el repositorio central, mediante `git add .`, `git commit -m "Establecer roles y distribuir contenido"` y `git push origin master` (éste será el **único momento** en el que se publicará algo directamente sobre `master`)
+2. Actualiza la copia personal de tu ordenador con las últimas modificaciones del repositorio central con `git pull origin master`
 3. Crea un nuevo branch en tu ordenador, con tu nombre de usuario y el nombre del plano en el que vas a trabajar (por ejemplo, `mberasategi-estrategia`): `git checkout -b NOMBREDEBRANCH`
 4. Trabaja en tu ordenador **sobre ese branch** (compruébalo con `git status` si hace falta), realizando las modificaciones correspondientes en el apartado que vayas a trabajar tú del documento `README.md`. Recuerda hacer commit para confirmar tus cambios, y push para enviarlos a tu copia personal en la nube.
-5. Cuando hayas avanzado lo suficiente en tu trabajo como para compartirlo con tus compañeros, inicia un pull request en el repositorio central:
-    - accede mediante el navegador al repositorio central, en DeustoPWEB2018; clic en la pestaña **Pull requests**, y después clic en el botón **New pull request**
-    - clic en **compare across forks**
-    - **Base fork** debe ser el repositorio central (en DeustoPWEB2018), branch `master`
-    - **Head fork** debe ser tu fork personal, branch `tunombre-plano`
+5. Cuando hayas avanzado lo suficiente en tu trabajo como para compartirlo con tus compañeros, inicia un pull request:
+    - accede mediante el navegador al repositorio central (`https://github.com/DeustoPWEB2018/proyectoweb-VUESTROTEMA`); clic en la pestaña **Pull requests**, y después clic en el botón **New pull request**
+    - **base** debe ser `master`
+    - **compare** debe ser tu branch de trabajo, `tunombre-plano`
+    - Haz clic en **Create pull request**
     - Una vez hayas creado el pull request, en la barra lateral derecha, establece como **Reviewer** a la persona encargada del Control para este plano.
 6. :memo: La persona encargada de Control revisa los pull requests para asegurar que las aportaciones de los compañeros cumplen los requerimientos. Solicita cambios cuando son necesarios y aprueba los pull requests cuando están preparados para incluirse en el borrador.
 7. Cuando tu aportación personal esté lo suficientemente avanzada y finalizada como para incluirse en el borrador, y tenga el visto bueno de la persona de Control, :memo: la persona de Coordinación hará merge de tus cambios. 
@@ -67,7 +65,7 @@ Antes de empezar con el primer borrador, cada miembro del grupo deberá:
     - En **Describe this release** podéis incluir comentarios sobre el borrador, como áreas que consideráis que requieren más trabajo, o cualquier otra anotación que queráis añadir a vuestra entrega
     - Clic en **Publish this release**
     - Enviar la URL de la siguiente página a la entrega correspondiente en ALUD
-9. Vuelve a actualizar tu copia personal (sigue [las instrucciones](https://deustopweb2018.github.io/actualizar-fork) si las necesitas) para tener en tu ordenador la versión que habéis entregado como borrador.
+9. Actualiza tu copia local (sigue [las instrucciones](https://deustopweb2018.github.io/actualizar-fork) si las necesitas) para tener en tu ordenador la versión que habéis entregado como borrador.
 
 ## Registro de las reuniones presenciales del equipo base
 
@@ -75,23 +73,23 @@ Podéis organizar el trabajo fuera del aula como os parezca más apropiado, pero
 
 ### Actas
 
-:memo: La persona encargada de Secretaría recogerá en un acta durante la reunión los temas tratados, las decisiones tomadas, las tareas a realizar etc. Estas actas hay que incorporarlas al repositorio del proyecto. Para esto:
+:memo: La persona encargada de Secretaría recogerá en un acta durante la reunión los temas tratados, las decisiones tomadas, las tareas a realizar etc. Estas actas hay que incorporarlas al repositorio del proyecto. Para esto, la persona encargada de Secretaría deberá:
 
-1. Asegúrate de que estás en tu branch de trabajo (`TUNOMBRE-TEMA`) con `git status`
+1. Asegúrate de que estás en tu branch de trabajo (`TUNOMBRE-TEMA`) con `git status` (si no lo estás, cámbiate con `git checkout TUNOMBRE-TEMA`)
 2. Genera un documento en el directorio `actas-reuniones` de la unidad correspondiente, siguiendo las indicaciones en [el acta de ejemplo](1-estrategia/actas-reuniones/2018MMDD.md). Redacta el acta en ese documento (utilizando Sublime) y guárdalo
 3. Vuelve a la terminal y
     - añade el archivo recién creado: `git add .`
     - haz commit: `git commit -m "Redacción del acta 2018MMDD.md"`
-    - publícalo en tu copia personal: `git push origin TUNOMBRE-TEMA`
+    - publícalo: `git push origin TUNOMBRE-TEMA`
 
 ### Autoevaluaciones
 
 Cada vez que os reunáis con vuestro equipo base, todos tendréis que realizar las **autoevaluaciones** para todos los participantes. Las autoevaluaciones se recogen en una carpeta llamada `evaluaciones` dentro del directorio correspondiente a cada unidad. 
 
-Para esto, **al finalizar la reunión**:
+Para esto, **al finalizar cada reunión**:
 
-1. En la terminal, accede a tu carpeta del repositorio y crea el branch de trabajo para utilizar durante esta unidad: `git checkout -b TUNOMBRE-TEMA`
-2. Abre la carpeta en tu Explorador de archivos (Windows) o Finder (Mac). Accede al directorio `evaluaciones` de la unidad en la que estemos trabajando. Haz una coia del archivo Excel que tienes en esa carpeta (`MiApellidoMiNombre-2018MMDD.xlsx`) y cámbiale el nombre para que indique tu nombre y la fecha correcta, por ejemplo, `BerasategiMiren-20181002.xlsx`
+1. En la terminal, accede a tu carpeta del repositorio y asegúrate de que estás en tu branch de trabajo (`TUNOMBRE-TEMA`) con `git status` (si no lo estás, cámbiate con `git checkout TUNOMBRE-TEMA`)
+2. Abre la carpeta en tu Explorador de archivos (Windows) o Finder (Mac). Accede al directorio `evaluaciones` de la unidad en la que estemos trabajando. Haz una copia del archivo Excel que tienes en esa carpeta (`MiApellidoMiNombre-2018MMDD.xlsx`) y cámbiale el nombre para que indique tu nombre y la fecha correcta, por ejemplo, `BerasategiMiren-20181002.xlsx`
 3. Abre el archivo recién creado y rellena en esa hoja de cálculo tus evaluaciones (para ti y el resto de miembros que han trabajado contigo en el equipo), siguiendo las indicaciones que encontrarás en el mismo documento, y guárdalo 
 4. En la terminal, guarda, confirma y envía a la nube los cambios realizados:
     ```
