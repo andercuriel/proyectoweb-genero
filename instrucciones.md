@@ -2,11 +2,11 @@
 
 Accesos rápidos:
 
-:arrow_forward: [Empezar a trabajar en una nuevo borrador](#cada-vez-que-empezemos-con-nuevo-apartado)
+- :arrow_forward: [Empezar a trabajar en una nuevo borrador](#cada-vez-que-empezemos-con-nuevo-apartado)
 
 Cada vez que nos reunamos:
-:arrow_forward: [Recoger acta](#actas) (si eres la persona encargada de Secretaría)
-:arrow_forward: [Realizar las autoevaluaciones](#autoevaluaciones)
+- :arrow_forward: [Recoger acta](#actas) (si eres la persona encargada de Secretaría)
+- :arrow_forward: [Realizar las autoevaluaciones](#autoevaluaciones)
 
 ## Descripción del contenido del repositorio 
 
@@ -17,15 +17,16 @@ Hay un directorio para cada unidad didáctica (o capítulo del proyecto), con la
 |_ actas-reuniones
 |   |_ 2018MMDD.md
 |   |_ ...
-|_ *evaluaciones                               [evaluaciones]
-|   |_ *MiApellidoMiNombre-2018MMDD.xlsx       [evaluaciones]
+|_ evaluaciones
+|   |_ MiApellidoMiNombre-2018MMDD.xlsx
 |_ img
 |   |_ ...   
 |_ README.md
+|_ roles.md
 ```
 
 - En el directorio `actas-reuniones` recogeréis las actas de las reuniones que el equipo base realice fuera de clase. Podéis ver más información sobre la estructura y formato de estas actas en el [modelo de acta](1-estrategia/actas-reuniones/2018MMDD.md). Un acta por reunión.
-- El directorio `evaluaciones` estará presente solamente en el branch `evaluaciones`. Más información en el `README.md` del branch modelo `evaluaciones`.
+- El directorio `evaluaciones` se recogen las autoevaluaciones que realizaréis al finalizar cada reunión presencial del equipo base.
 - En el directorio `img` recogeréis las imágenes que vayáis a incorporar a vuestro contenido.
 - El archivo `README.md` será el que contenga el contenido de la sección o capítulo en sí.
 - El archivo `roles.md` debe recoger quién se encargará de cada tarea durante el tiempo en el que estéis trabajando en el borrador del plano correspondiente. 
@@ -85,6 +86,23 @@ Podéis organizar el trabajo fuera del aula como os parezca más apropiado, pero
 
 ### Autoevaluaciones
 
+Cada vez que os reunáis con vuestro equipo base, todos tendréis que realizar las **autoevaluaciones** para todos los participantes. Las autoevaluaciones se recogen en una carpeta llamada `evaluaciones` dentro del directorio correspondiente a cada unidad. 
+
+Para esto, **al finalizar la reunión**:
+
+1. En la terminal, accede a tu carpeta del repositorio y crea el branch de trabajo para utilizar durante esta unidad: `git checkout -b TUNOMBRE-TEMA`
+2. Abre la carpeta en tu Explorador de archivos (Windows) o Finder (Mac). Accede al directorio `evaluaciones` de la unidad en la que estemos trabajando. Haz una coia del archivo Excel que tienes en esa carpeta (`MiApellidoMiNombre-2018MMDD.xlsx`) y cámbiale el nombre para que indique tu nombre y la fecha correcta, por ejemplo, `BerasategiMiren-20181002.xlsx`
+3. Abre el archivo recién creado y rellena en esa hoja de cálculo tus evaluaciones (para ti y el resto de miembros que han trabajado contigo en el equipo), siguiendo las indicaciones que encontrarás en el mismo documento, y guárdalo 
+4. En la terminal, guarda, confirma y envía a la nube los cambios realizados:
+    ```
+    git add .
+    git commit -m "Evaluar reunión del día 20181002"
+    git push origin TUNOMBRE-TEMA
+    ```
+
+
+<!-- Previous branch approach
+
 Cada vez que os reunáis en equipos base, todos tendréis que realizar la autoevaluación propia y la de los demás miembros del equipo. Para esto, **al finalizar la reunión**:
 
 1. En la terminal, accede a tu copia del repositorio del proyecto y cámbiate al branch `evaluaciones`: `git checkout evaluaciones`
@@ -99,3 +117,5 @@ Cada vez que os reunáis en equipos base, todos tendréis que realizar la autoev
 5. Vuelve a tu branch de trabajo para seguir generando el contenido que te corresponde en este borrador: `git checkout TUNOMBRE-TEMA`
 
 Estas autoevaluaciones no necesitan incorporarse al repositorio central, por lo que no es necesario que crees un pull request para esto. Las recogeré del repositorio personal de cada estudiante.
+
+-->
