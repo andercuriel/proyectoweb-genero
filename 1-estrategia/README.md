@@ -37,6 +37,7 @@
 ### Investigación de usuarios
 
 ## Personas
+HOLA SOY YO
 
 ## Lean UX Canvas
 
