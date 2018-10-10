@@ -1,6 +1,6 @@
 # Roles durante el plano de Estrategia
 
-Coordinación:
-Control: 
-Comunicación:
-Secretaría: 
+Coordinación: Iñigo Hernández
+Control: Jon Cantero 
+Comunicación: Ander Curiel
+Secretaría: Marina Pérez
