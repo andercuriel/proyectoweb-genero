@@ -18,7 +18,7 @@
 
 ## Lean UX Canvas
 
-Ander Curiel 
+* Ander Curiel  
 
 (plantilla/modelo en el documento `lean-ux-canvas.md`)
 
