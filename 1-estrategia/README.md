@@ -12,11 +12,12 @@
 	Informar y Educar a través de diferentes soportes. Estar al tanto de la actualidad en lo que ocurre acerca de la igualdad de género en Gipuzkoa.  
 
 * ¿Cómo puedo ganarme la confianza por medio de mi producto?
-	¿Una organización correcta de todos los contenidos a través de un mapa de sitio correcto, que esté indicado correctamente? 
-	(Miren)
+	¿Una organización correcta de todos los contenidos a través de un mapa de sitio correcto, que esté indicado correctamente 
+	¿Miren)?
 
 ### Circunstancias de uso
-* Quién: Personas residentes en Gipuzkoa de entre 16 y 50 años. 
+* Quién: Vamos a dirigirnos a personas residentes en Gipuzkoa de entre 16 y 50 años. La razón por la cual hemos escogido este segmento de edad reside principalmente en el uso que la población hace de Internet. Hemos observado que a partir de los 45 años el uso de Internet desciende notoriamente(1), de ahí que limitar la edad del público objetivo hasta los 50 años nos permitiría llegar a un número considerable de usuarios de esta tecnología. 
+
 * Qué: Diferentes secciones (podcast, revistas etc..)
 * Cuándo: Dependiendo del momento del día y del contenido. 
 * Dónde: Dependiendo del momento del día y del contenido. 
@@ -55,3 +56,5 @@
 (plantilla/modelo en el documento `lean-ux-canvas.md`)
 
 ## Referencias
+
+(1): http://www.eustat.eus/elementos/ele0000800/_Poblacion_de_15_y_mas_anos_de_la_CA_de_Euskadi_usuaria_de_Internet_por_sexo_edad_y_relacion_con_la_actividad_segun_territorio_historico_/tbl0000800_c.html (EUSTAT. Población de 15 y más años de la C.A. de Euskadi usuaria de Internet por sexo, edad y relación con la actividad, según territorio histórico (%). 2018)
