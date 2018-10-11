@@ -18,7 +18,7 @@
 
 ## Lean UX Canvas
 
-* Ander Curiel  
+* Ander Curiel se encargará de la pregunta.   
 
 (plantilla/modelo en el documento `lean-ux-canvas.md`)
 
