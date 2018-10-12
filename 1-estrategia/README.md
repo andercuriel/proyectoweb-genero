@@ -12,8 +12,7 @@
 	* Informar y Educar a través de diferentes soportes. Estar al tanto de la actualidad en lo que ocurre acerca de la igualdad de género en Gipuzkoa.  
 
 * ¿Cómo puedo ganarme la confianza por medio de mi producto?
-	* ¿Una organización correcta de todos los contenidos a través de un mapa de sitio correcto, que esté indicado correctamente 
-	¿Miren)?
+	* Creemos que a través de la organización correcta de todos los contenidos, a través de un mapa de sitio correcto, nos otorgaría mayor credibilidad acerca de nuestro objetivo de informar y educar a través de la igualdad de género. (¿Miren)?
 
 ### Circunstancias de uso
 
@@ -31,25 +30,43 @@
 
 ### Criterios de diseño
 
-* Accesibilidad: Vamos a intentar la web para que sea accesible a través de multidispositivos. 
+* Accesibilidad: 
+	* Nuestro objetivo, tal y como hemos mencionado anteriormente, es que la página web sea accesible para los usuarios a través de diferentes dispositivos. Es por ello que el diseño de la Interfaz tendrá que tener en cuenta una serie de detalles, como por ejemplo, la extensión de los contenidos no podrá excederse demasiado en lo que a anchura se refiere, y a su vez, la tipografía no podrá ser excesivamente grande. Tendremos que utilizar una tipografía que sea visible y que a su vez se adecúe al diseño que queremos implantar.    
 
-* Funcionalidad: Utilizaremos mediadores (Youtube, Picasa) para almacenar nuestros archivos. Ganaremos espacio y dinero al no tener que almacenar estos contenidos en nuestros servidor. 
+* Funcionalidad: 
+	* Uno de los aspectos fundamentales del diseño se basa en la funcionalidad, en conseguir que nuestro sitio web ofrezca una correcta respuesta a las peticiones que obtenga de nuestros usuarios. Pensamos que una buena forma para subir contenidos, sobre todo en aquellos casos en los que el tamaño de los mismos es algo más elevado de lo común, podría ser subir los contenidos a sitios web que funcionen como intermediarios para con nuestro contenido y nuestros usuarios. Por ejemplo, podríamos optar por subir nuestros archivos de vídeo y audio a las plataformas Youtube e Ivoox, respectivamente. El usuario encontraría un enlace de nuestros contenidos en estos sitios web, y nosotros conseguiríamos no solo ahorrar espacio y dinero, sino que además, aumentaríamos la posibilidad de que nuestros contenidos fueran vistos en otros sitios web . 
 
-* Findability: Contaremos con un buscador y con una categorización de etiquetas que nos permitirá ordenar todo categoricamente. 
+* Findability: 
+	* Para solucionar las peticiones de aquellos usuarios que quieran encontrar algún contenido específico, ofreceremos un buscador por palabras o categorías, para lo cual etiquetaremos las palabras por palabras clave. De esta manera facilitaremos que nuestros usuarios puedan encontrar aquello que desean de una manera mucho más eficaz.  
 
-* Utilidad: Compartir a través de multidispositivos. Feedback a través de comentarios. 
+* Utilidad: 
+	* El sitio web permitirá a los usuarios compartir los contenidos que se publiquen a través de aplicaciones de mensajería instantánea. Además, en la parte inferior de cada publicación habrá un espacio destinado a ofrecer la posibilidad a los usuarios de que realicen su feedback a través de comentarios, sugerencias o críticas, por citar algunos ejemplos.  
 
-* Estética: El contenido es formal a si que la tipografía será legible y formal. Fuentes clásicas. 
-
-* Credibilidad: 
+* Estética: 
+	* Tratándose de un sitio web cuyos fines principales son educar e informar, el diseño estéticamente hablando tendrá un carácter formal. Priorizaremos la correcta visión de todos los elementos que formen nuestro sitio web, en lugar de que visualmente el sitio sea bonito. Optaremos por colores neutros, así como por tipografías clásicas, que sean sencillas de interpretar. 
 
 ### Indicadores de éxito (Iñigo)
+
+Creemos que a través de los siguientes indicadores de éxito (2) podremos comprobar si nuestros objetivos se están llevando a cabo de una forma exitosa o no. Además, como cuestionaremos a los usuarios acerca de varios aspectos, podremos identificar los errores y reforzar los aciertos con una posibilidad mayor de éxito. 
+
 * Satisfacción del cliente
+	* Grado de satisfacción con la experiencia navegando en el sitio web (1-5) 
+
 * Grado de recomendación
+	* ¿Recomendarías este sitio web a algún amigo/familiar/conocido (poco recomendable-muy recomendable)? 
+	* NPS: Detractores (0-6), Pasivos (7-8), Promotores (9-10). 
+
 * Usabilidad
+	* ¿Qué tareas has podido completar a través de nuestro sitio web? Elabora una respuesta detallando una o varias tareas que hayas podido realizar
+
 * Dificultades del usuario
+	* ¿Con qué dificultades te has encontrado a la hora de realizar una tarea?
+
 * Descripción general del sitio
+	* ¿Con qué adjetivo/s describirías nuestro sitio web? (Escribir o seleccionar alguno de los que propongamos nosotros)
+
 * Valoración general  
+	* ¿Qué puntuación global le ofrecerías a nuestro sitio web? (1-5)
 
 ## Necesidades del usuario
 
@@ -64,3 +81,4 @@
 ## Referencias
 
 (1): http://www.eustat.eus/elementos/ele0000800/_Poblacion_de_15_y_mas_anos_de_la_CA_de_Euskadi_usuaria_de_Internet_por_sexo_edad_y_relacion_con_la_actividad_segun_territorio_historico_/tbl0000800_c.html (EUSTAT. Población de 15 y más años de la C.A. de Euskadi usuaria de Internet por sexo, edad y relación con la actividad, según territorio histórico (%). 2018)
+(2): 6 key UX metrics to focus on. 2018/05/15 Disponible online: http://www.uxforthemasses.com/ux-metrics/
