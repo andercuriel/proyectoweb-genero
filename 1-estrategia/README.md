@@ -38,18 +38,18 @@
 
 ## Personas
 
-* Mediante el uso de personas vamos a representar a los posibles personajes que van a usar el sitio web que vamos a diseñar. De esta forma no solo representamos a una persona sino al conjunto de las mismas, recogemos sus conductas, habilidades, actitudes de nuestros posibles usuarios potenciales. Este proceso nos va a ayudar mucho a la hora de elaborar nuestra interfaz ya que diseñaremos la misma en función de las necesidades de nuestros usuarios. 
+Mediante el uso de personas vamos a representar a los posibles personajes que van a usar el sitio web que vamos a diseñar. De esta forma no solo representamos a una persona sino al conjunto de las mismas, recogemos sus conductas, habilidades, actitudes de nuestros posibles usuarios potenciales. Este proceso nos va a ayudar mucho a la hora de elaborar nuestra interfaz ya que diseñaremos la misma en función de las necesidades de nuestros usuarios. 
 Para ello hemos elaborado tres plantillas y por ende tres personas que representan al conjunto de nuestro posible público objetivo. Ellos son: Juan, Paula y Dolores. 
 
 * **Juan** es estudiante de criminología y este año termina la carrera. Dice no tener problemas a la hora de manejar diferentes sitios webs pero tampoco de considera un hacha.
 * **Paula** es directora informática de BOSCH Bilbao. Le apasiona estar en todo momento informada y le encanta leer sobre temas de desigualdad de género. No tiene ningún tipo de problema a la hora de manejar sitios web, ya que se dedica a ello. 
 * **Dolores** es ama de casa y no controla mucho el mundo web. Se siente segura utilizando la página web de las recetas de MJ ya que le resulta familiar y sencilla. Por lo demás prefiere no tocar mucho no vaya a des configurar el ordenador que tiene en casa. Para estar informada compra todos los días prensa escrita pero no le importaría pasarse plataformas web siempre y cuando sean claras y sencillas.
 
-* ![peronas1](https://ibb.co/gz9s0f) 
-* ![peronas2](https://ibb.co/eeiwRL) 
-* ![peronas3](https://ibb.co/jERSY0) 
+![Juan](<a href="https://ibb.co/eeiwRL"><img src="https://thumb.ibb.co/eeiwRL/JUAN.png" alt="JUAN" border="0"></a>) 
+![Paula](<a href="https://ibb.co/jERSY0"><img src="https://thumb.ibb.co/jERSY0/PAULA.png" alt="PAULA" border="0"></a>) 
+![Dolores](<a href="https://ibb.co/gz9s0f"><img src="https://thumb.ibb.co/gz9s0f/DOLORES.png" alt="DOLORES" border="0"></a>) 
 
-* Hemos decidido que vamos a diseñar nuestra interfaz para Dolores ya que es quién mas problemas va a tener a la hora de navegar en nuestro sitio web. Paula y Juan están muy familiarizados con este entorno y creemos que no tendrán ningún tipo de problema a la hora de navegar en nuestra web. 
+Hemos decidido que vamos a diseñar nuestra interfaz para Dolores ya que es quién mas problemas va a tener a la hora de navegar en nuestro sitio web. Paula y Juan están muy familiarizados con este entorno y creemos que no tendrán ningún tipo de problema a la hora de navegar en nuestra web. 
 
 ## Lean UX Canvas
 
