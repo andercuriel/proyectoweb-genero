@@ -54,7 +54,7 @@ Antes de crear la encuesta hay que tener varias cosas en cuenta:
 ### La encuesta
 A continuación se encuentra la encuesta que hemos elaborado con el fin de conocer las necesidades de nuestros usuarios. La encuesta la hemos creado mediante los formularios de Google Drive y la hemos distribudo a nuestro entorno más cercano a través del correo electrónico. 
 
-[GitHub](https://goo.gl/forms/gCcDXKLv31aDYlW92)
+[Encuesta: Conocer las necesidades de usuarios](https://goo.gl/forms/gCcDXKLv31aDYlW92)
 
 
 ### Conclusiones
