@@ -54,15 +54,15 @@ Antes de crear la encuesta hay que tener varias cosas en cuenta:
 ### La encuesta
 A continuación se encuentra la encuesta que hemos elaborado con el fin de conocer las necesidades de nuestros usuarios. La encuesta la hemos creado mediante los formularios de Google Drive y la hemos distribudo a nuestro entorno más cercano a través del correo electrónico. 
 
-![Alt Text](Encuesta 1) 
+! [Alt Text] (Encuesta 1) 
 
-![Alt Text](Encuesta 2)
+! [Alt Text] (Encuesta 2)
 
-![Alt Text](Encuesta 3)
+! [Alt Text] (Encuesta 3)
 
-![Alt Text](Encuesta 4)
+! [Alt Text] (Encuesta 4)
 
-![Alt Text](Encuesta 5)
+![Alt Text] (Encuesta 5)
 
 ### Conclusiones
 
