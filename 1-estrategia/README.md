@@ -28,7 +28,7 @@ Hemos visto que la audiencia ya no se suscribe a las páginas web como antes. Bu
 
 **Ideas de soluciones**
 
-Sumar todo tipo de tecnologías a nuestro alcance para hacer la experiencia de usuario más dinámica.
+Sumar todo tipo de tecnologías a nuestra mano para hacer la experiencia de usuario más dinámica.
 
 Utilizar el fenómeno transmedia como motor de vehículo de nuetsra web (sumando podcast, video reportajes, artículos...).
 
