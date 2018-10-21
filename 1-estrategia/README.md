@@ -78,11 +78,11 @@ El 62,5% de los encuestados contactarían mediante e-mail.
 Un 50% dice que si es útil y el otro 50% dice que tal vez. 
 
 #### Conclusiones generales:
-	* Los **contenidos audiovisuales** son los que tienen más éxito y los contenidos en audio ninguno. 
+- Los **contenidos audiovisuales** son los que tienen más éxito y los contenidos en audio ninguno. 
 
-	*Un **buscador avanzado** es imprescindible en una página web y también el contenido que hay en ella.
+- Un **buscador avanzado** es imprescindible en una página web y también el contenido que hay en ella.
 
-	*Las **historias de casos reales** son el contenido que más interesa en relación a la igualdad de género.
+*Las **historias de casos reales** son el contenido que más interesa en relación a la igualdad de género.
 
 	*En el apartado de “atención al cliente”, es imprescindible añadir un **e-mail** para que los clientes se puedan poner en **contacto**, es la forma más demandada. 
 
