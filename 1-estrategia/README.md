@@ -1,3 +1,4 @@
+
 # PLANO DE ESTRATEGIA
 
 ## OBJETIVOS 
@@ -71,24 +72,10 @@ Creemos que a través de los siguientes indicadores de éxito podremos comprobar
 ## NECESIDADES DEL USUARIO
 
 ### Investigación de usuarios
-Como bien hemos comentado, nuestro proyecto web es crear una página web relacionada con la **igualdad de género**. En esta página web se encontrarán noticias, reportajes, datos, videos, etc. Todo el contenido hallado en este sitio web tendrá el siguiente objetivo: informar y educar. 
+Como bien hemos comentado, nuestro proyecto web es crear una página web relacionada con la **igualdad de género**. En esta página web se encontrarán noticias, reportajes, datos, videos, etc. Todo el contenido hallado en este sitio web tendrá el siguiente objetivo: informar y educar.
+
 En cuanto a nuestro público objetivo creemos que es bastante amplio, ya que tanto mujeres como hombres mayores de 18 años podrían tener interés en acceder a nuestra página web. Pero antes de crear nuestro producto debemos conocer a nuestros usuarios y sobre todo debemos percibir al máximo sus necesidades. ¿Pero cuáles son esas necesidades? 
-
-<<<<<<< HEAD
-## Personas
-
-Mediante el uso de personas vamos a representar a los posibles personajes que van a usar el sitio web que vamos a diseñar. De esta forma no solo representamos a una persona sino al conjunto de las mismas, recogemos sus conductas, habilidades, actitudes de nuestros posibles usuarios potenciales. Este proceso nos va a ayudar mucho a la hora de elaborar nuestra interfaz ya que diseñaremos la misma en función de las necesidades de nuestros usuarios. 
-Para ello hemos elaborado tres plantillas y por ende tres personas que representan al conjunto de nuestro posible público objetivo. Ellos son: Juan, Paula y Dolores. 
-
-* **Juan** es estudiante de criminología y este año termina la carrera. Dice no tener problemas a la hora de manejar diferentes sitios webs pero tampoco de considera un hacha.
-* **Paula** es directora informática de BOSCH Bilbao. Le apasiona estar en todo momento informada y le encanta leer sobre temas de desigualdad de género. No tiene ningún tipo de problema a la hora de manejar sitios web, ya que se dedica a ello. 
-* **Dolores** es ama de casa y no controla mucho el mundo web. Se siente segura utilizando la página web de las recetas de MJ ya que le resulta familiar y sencilla. Por lo demás prefiere no tocar mucho no vaya a des configurar el ordenador que tiene en casa. Para estar informada compra todos los días prensa escrita pero no le importaría pasarse plataformas web siempre y cuando sean claras y sencillas.
-
-* <img src="img/JUAN.jpg">
-* <img src="img/PAULA.jpg">
-* <img src="img/DOLORES.jpg">
-
-Hemos decidido que vamos a diseñar nuestra interfaz para Dolores ya que es quién mas problemas va a tener a la hora de navegar en nuestro sitio web. Paula y Juan están muy familiarizados con este entorno y creemos que no tendrán ningún tipo de problema a la hora de navegar en nuestra web. 
+Para averiguar las necesidades del usuario hemos optado por crear una **encuesta**. Mediante la encuesta conoceremos al usuario, o posible cliente, y averiguaremos sus necesidades para poder adaptarnos y ofrecerles lo que necesitan. Los cuatro conceptos claves para afrontar una encuesta y ofrecer realmente un servicio útil son: la empatía, la escucha,la observación y finalmente la obtención de conclusiones. 
 
 Para averiguar las necesidades del usuario hemos optado por crear una **encuesta**.Mediante la encuesta conoceremos al usuario, o posible cliente, y averiguaremos sus necesidades para poder adaptarnos y ofrecerles lo que necesitan. Los cuatro conceptos claves para afrontar una encuesta y ofrecer realmente un servicio útil son: la empatía, la escucha,la observación y finalmente la obtención de conclusiones. 
 
@@ -109,6 +96,51 @@ A continuación se encuentra la encuesta que hemos elaborado con el fin de conoc
 
 
 ### Conclusiones
+Como bien hemos comentado en el anterior apartado, hemos realizado la encuesta a personas de nuestro entorno todas ellas de diferentes edades y sexo: un 75% de las encuestadas son mujeres y un 25% hombres. A continuación analizaremos cada pregunta individualmente:
+
+-	**¿En qué formato prefieres consumir información?**
+	Entre los encuestados el 50% prefiere consumir información en video, el 37,5% en texto y el 12,5% en imágenes. Por lo tanto, mediante este resultado vemos claramente que los contenidos audiovisuales tienen más éxito, por ejemplo que los contenidos en audio. 
+
+-	**¿Qué es lo que más valoras cuando navegas por una página web?**
+	El 37,5% lo qué más valora es que haya un buscador avanzado para poder localizar la información rápidamente. Y el resto de los encuestados también le dan mucha importancia al contenido, a la interactividad y al diseño. 
+
+-	**Valora del 0 al 5 el interés que tengas en los siguientes contenidos sobre la igualdad de género (0: no me interesa - 5 me interesa mucho)**
+	La respuesta que más puntuación ha obtenido han sido las historias de casos reales, le siguen los consejos y los reportajes. 
+
+-	**¿En qué momento del día accederías a una página web informativa sobre la igualdad de género?**
+	Un 62,5% consumiría el contenido a la noche en la franja horaria entre las 22:00 y las 00:00. 
+
+-	**Quieres contactar con la página web, ¿cómo preferirías ponerte en contacto?**
+	El 62,5% de los encuestados contactarían mediante e-mail.
+
+-	**¿Crees que una página web sobre la igualdad de género es útil? ¿Tiene interés?**
+	Un 50% dice que si es útil y el otro 50% dice que tal vez. 
+
+#### Conclusiones generales:
+- Los **contenidos audiovisuales** son los que tienen más éxito y los contenidos en audio ninguno. 
+
+- Un **buscador avanzado** es imprescindible en una página web y también el contenido que hay en ella.
+
+- Las **historias de casos reales** son el contenido que más interesa en relación a la igualdad de género.
+
+- En el apartado de “atención al cliente”, es imprescindible añadir un **e-mail** para que los clientes se puedan poner en **contacto**, es la forma más demandada. 
+
+
+## Personas
+
+Mediante el uso de personas vamos a representar a los posibles personajes que van a usar el sitio web que vamos a diseñar. De esta forma no solo representamos a una persona sino al conjunto de las mismas, recogemos sus conductas, habilidades, actitudes de nuestros posibles usuarios potenciales. Este proceso nos va a ayudar mucho a la hora de elaborar nuestra interfaz ya que diseñaremos la misma en función de las necesidades de nuestros usuarios. 
+Para ello hemos elaborado tres plantillas y por ende tres personas que representan al conjunto de nuestro posible público objetivo. Ellos son: Juan, Paula y Dolores. 
+
+* **Juan** es estudiante de criminología y este año termina la carrera. Dice no tener problemas a la hora de manejar diferentes sitios webs pero tampoco de considera un hacha.
+* **Paula** es directora informática de BOSCH Bilbao. Le apasiona estar en todo momento informada y le encanta leer sobre temas de desigualdad de género. No tiene ningún tipo de problema a la hora de manejar sitios web, ya que se dedica a ello. 
+* **Dolores** es ama de casa y no controla mucho el mundo web. Se siente segura utilizando la página web de las recetas de MJ ya que le resulta familiar y sencilla. Por lo demás prefiere no tocar mucho no vaya a des configurar el ordenador que tiene en casa. Para estar informada compra todos los días prensa escrita pero no le importaría pasarse plataformas web siempre y cuando sean claras y sencillas.
+
+* <img src="img/JUAN.jpg">
+* <img src="img/PAULA.jpg">
+* <img src="img/DOLORES.jpg">
+
+Hemos decidido que vamos a diseñar nuestra interfaz para Dolores ya que es quién mas problemas va a tener a la hora de navegar en nuestro sitio web. Paula y Juan están muy familiarizados con este entorno y creemos que no tendrán ningún tipo de problema a la hora de navegar en nuestra web. 
+
 
 ## LEAN UX-CANVAS
 
