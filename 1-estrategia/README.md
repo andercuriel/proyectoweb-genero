@@ -110,11 +110,6 @@ A continuación se encuentra la encuesta que hemos elaborado con el fin de conoc
 
 ### Conclusiones
 
-
-## PERSONAS
-HOLA SOY YO
->>>>>>> 3c977eb37f7228a3657d51efdd2ce8477d57bda7
-
 ## LEAN UX-CANVAS
 
 (plantilla/modelo en el documento `lean-ux-canvas.md`)
