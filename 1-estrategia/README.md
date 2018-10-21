@@ -45,9 +45,9 @@ Para ello hemos elaborado tres plantillas y por ende tres personas que represent
 * **Paula** es directora informática de BOSCH Bilbao. Le apasiona estar en todo momento informada y le encanta leer sobre temas de desigualdad de género. No tiene ningún tipo de problema a la hora de manejar sitios web, ya que se dedica a ello. 
 * **Dolores** es ama de casa y no controla mucho el mundo web. Se siente segura utilizando la página web de las recetas de MJ ya que le resulta familiar y sencilla. Por lo demás prefiere no tocar mucho no vaya a des configurar el ordenador que tiene en casa. Para estar informada compra todos los días prensa escrita pero no le importaría pasarse plataformas web siempre y cuando sean claras y sencillas.
 
-* ![JUAN](/escritorio/JUAN.png)
-* ![PAULA](/escritorio/PAULA.png)
-* ![DOLORES](/escritorio/DOLORES.png)
+* <img src="img/JUAN.jpg">
+* <img src="img/PAULA.jpg">
+* <img src="img/DOLORES.jpg">
 
 Hemos decidido que vamos a diseñar nuestra interfaz para Dolores ya que es quién mas problemas va a tener a la hora de navegar en nuestro sitio web. Paula y Juan están muy familiarizados con este entorno y creemos que no tendrán ningún tipo de problema a la hora de navegar en nuestra web. 
 
