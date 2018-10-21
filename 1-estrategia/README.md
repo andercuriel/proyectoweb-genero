@@ -74,6 +74,22 @@ Creemos que a través de los siguientes indicadores de éxito podremos comprobar
 Como bien hemos comentado, nuestro proyecto web es crear una página web relacionada con la **igualdad de género**. En esta página web se encontrarán noticias, reportajes, datos, videos, etc. Todo el contenido hallado en este sitio web tendrá el siguiente objetivo: informar y educar. 
 En cuanto a nuestro público objetivo creemos que es bastante amplio, ya que tanto mujeres como hombres mayores de 18 años podrían tener interés en acceder a nuestra página web. Pero antes de crear nuestro producto debemos conocer a nuestros usuarios y sobre todo debemos percibir al máximo sus necesidades. ¿Pero cuáles son esas necesidades? 
 
+<<<<<<< HEAD
+## Personas
+
+Mediante el uso de personas vamos a representar a los posibles personajes que van a usar el sitio web que vamos a diseñar. De esta forma no solo representamos a una persona sino al conjunto de las mismas, recogemos sus conductas, habilidades, actitudes de nuestros posibles usuarios potenciales. Este proceso nos va a ayudar mucho a la hora de elaborar nuestra interfaz ya que diseñaremos la misma en función de las necesidades de nuestros usuarios. 
+Para ello hemos elaborado tres plantillas y por ende tres personas que representan al conjunto de nuestro posible público objetivo. Ellos son: Juan, Paula y Dolores. 
+
+* **Juan** es estudiante de criminología y este año termina la carrera. Dice no tener problemas a la hora de manejar diferentes sitios webs pero tampoco de considera un hacha.
+* **Paula** es directora informática de BOSCH Bilbao. Le apasiona estar en todo momento informada y le encanta leer sobre temas de desigualdad de género. No tiene ningún tipo de problema a la hora de manejar sitios web, ya que se dedica a ello. 
+* **Dolores** es ama de casa y no controla mucho el mundo web. Se siente segura utilizando la página web de las recetas de MJ ya que le resulta familiar y sencilla. Por lo demás prefiere no tocar mucho no vaya a des configurar el ordenador que tiene en casa. Para estar informada compra todos los días prensa escrita pero no le importaría pasarse plataformas web siempre y cuando sean claras y sencillas.
+
+* <img src="img/JUAN.jpg">
+* <img src="img/PAULA.jpg">
+* <img src="img/DOLORES.jpg">
+
+Hemos decidido que vamos a diseñar nuestra interfaz para Dolores ya que es quién mas problemas va a tener a la hora de navegar en nuestro sitio web. Paula y Juan están muy familiarizados con este entorno y creemos que no tendrán ningún tipo de problema a la hora de navegar en nuestra web. 
+
 Para averiguar las necesidades del usuario hemos optado por crear una **encuesta**.Mediante la encuesta conoceremos al usuario, o posible cliente, y averiguaremos sus necesidades para poder adaptarnos y ofrecerles lo que necesitan. Los cuatro conceptos claves para afrontar una encuesta y ofrecer realmente un servicio útil son: la empatía, la escucha,la observación y finalmente la obtención de conclusiones. 
 
 ### Características de una encuesta
@@ -93,10 +109,6 @@ A continuación se encuentra la encuesta que hemos elaborado con el fin de conoc
 
 
 ### Conclusiones
-
-
-## PERSONAS
-HOLA SOY YO
 
 ## LEAN UX-CANVAS
 
