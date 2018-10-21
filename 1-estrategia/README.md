@@ -57,6 +57,34 @@ A continuación se encuentra la encuesta que hemos elaborado con el fin de conoc
 
 
 ### Conclusiones
+Como bien hemos comentado en el anterior apartado, hemos realizado la encuesta a personas de nuestro entorno todas ellas de diferentes edades y sexo: un 75% de las encuestadas son mujeres y un 25% hombres. A continuación analizaremos cada pregunta individualmente:
+
+-	**¿En qué formato prefieres consumir información?**
+Entre los encuestados el 50% prefiere consumir información en video, el 37,5% en texto y el 12,5% en imágenes. Por lo tanto, mediante este resultado vemos claramente que los contenidos audiovisuales tienen más éxito, por ejemplo que los contenidos en audio. 
+
+-	**¿Qué es lo que más valoras cuando navegas por una página web?**
+El 37,5% lo qué más valora es que haya un buscador avanzado para poder localizar la información rápidamente. Y el resto de los encuestados también le dan mucha importancia al contenido, a la interactividad y al diseño. 
+
+-	**Valora del 0 al 5 el interés que tengas en los siguientes contenidos sobre la igualdad de género (0: no me interesa - 5 me interesa mucho)**
+La respuesta que más puntuación ha obtenido han sido las historias de casos reales, le siguen los consejos y los reportajes. 
+
+-	**¿En qué momento del día accederías a una página web informativa sobre la igualdad de género?**
+Un 62,5% consumiría el contenido a la noche en la franja horaria entre las 22:00 y las 00:00. 
+
+-	**Quieres contactar con la página web, ¿cómo preferirías ponerte en contacto?**
+El 62,5% de los encuestados contactarían mediante e-mail.
+
+-	**¿Crees que una página web sobre la igualdad de género es útil? ¿Tiene interés?**
+Un 50% dice que si es útil y el otro 50% dice que tal vez. 
+
+#### Conclusiones generales:
+	* Los **contenidos audiovisuales** son los que tienen más éxito y los contenidos en audio ninguno. 
+
+	*Un **buscador avanzado** es imprescindible en una página web y también el contenido que hay en ella.
+
+	*Las **historias de casos reales** son el contenido que más interesa en relación a la igualdad de género.
+
+	*En el apartado de “atención al cliente”, es imprescindible añadir un **e-mail** para que los clientes se puedan poner en **contacto**, es la forma más demandada. 
 
 
 ## PERSONAS
