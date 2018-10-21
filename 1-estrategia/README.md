@@ -51,72 +51,20 @@ Antes de crear la encuesta hay que tener varias cosas en cuenta:
 
 •	**Crear preguntas con sentido**: es importante crear unas preguntas que respondan al objetivo principal. Todas las preguntas tienen que ofrecernos información.. 
 
-#####Encuesta
-A continuación se encuentra la encuesta que hemos elaborado con el fin de conocer las necesidades de nuestros usuarios: 
-Hola somos un grupo formado por cuatro estudiantes de 4º de Comunicación y tenemos gran interés en crear una página web relacionada con la igualdad de género. La página web va a abarcar contenido de todo tipo: noticias, reportajes, entrevistas, etc. Pero antes de crear el sitio web queremos saber las necesidades de nuestros posibles futuros clientes, en consecuencia hemos elaborado la siguiente encuesta que tan solo te llevará 5 minutos completar y que para nosotros sería de gran ayuda. Muchas gracias.
+######Encuesta
+A continuación se encuentra la encuesta que hemos elaborado con el fin de conocer las necesidades de nuestros usuarios. La encuesta la hemos creado mediante los formularios de Google Drive y la hemos distribudo a nuestro entorno más cercano a través del correo electrónico. 
 
-1.	Edad
-______________________.
-2.	Sexo
-	*Femenino
-	*Masculino
+![GitHub Logo](/Escritorio/encuesta 1.png)
 
-3.	¿En qué formato prefieres consumir información?
-	*Audio
-	*Video
-	*Imagen
-	*Texto
+![GitHub Logo](/Escritorio/encuesta 2.png)
 
-4.	¿Qué es lo que más valoras cuando navegas por una página web?
-	*Contenido
-	*Accesibilidad
-	*Distribución del contenido, bien estructurado
-	*Interactividad: imágenes, videos, foros, chats, etc.
-	*Buscador avanzado: localizar la información de forma rápida y sencilla
-	*Atención al cliente
-	*Diseño
+![GitHub Logo](/Escritorio/encuesta 3.png)
 
-5.	Valora del 0-5 el interés que tengas en los siguientes contenidos (0: no me interesa - 5 me interesa mucho)
-	*Noticias actuales relacionadas con la igualdad de género 
-	*Entrevistas de opinión a expertos: abogados, psicólogos, instituciones, etc. 
-	*Reportajes: datos, casos reales, procedimiento de actuación, resultado de la justicia, resultado de la sociedad, etc.
-	*Ayuda: consejos sobre la igualdad de género
-	*Historias de casos reales
- 
-6.	¿En qué momento del día accederías a una página web informativa sobre la igualdad de género?
-	*A primera hora de la mañana 07:00-10:00
-	*Al mediodía 10:00-13:00
-	*A la hora de comer 13:00-15:00
-	*A la tarde 15:00-20:00
-	*A la hora de cenar 20:00-22:00
-	*A la noche 22:00-00:00
-g.	
-7.	Quieres contactar con la página web, ¿cómo preferirías ponerte en contacto?
-	*Teléfono de atención al cliente
-	*E-mail 
-	*Facebook
-	*Twitter
-	*Chat
-	*Otros:
-8.	¿Crees que una página web sobre la igualdad de género es útil? ¿Tiene interés?
-	*Sí
-	*No
-	*Tal vez
-9.	Si has respondido que sí, ¿por qué crees que sería útil una página web sobre la igualdad de género?
-______________________________________________________________________.
+![GitHub Logo](/Escritorio/encuesta 4.png)
 
-10. Sugerencias:
-______________________________________________________________________.
+![GitHub Logo](/Escritorio/encuesta 5.png)
 
-La encuesta que acabamos de mostrar la hemos elaborado mediante los formularios de Google Drive y la hemos distribudo a nuestro entorno más cercano   a través del correo electrónico y la aplicación Whatsapp adjuntando el enlace de la encuesta. 
-
-![GitHub Logo](/destkop/encuesta 1.png)
-![GitHub Logo](/destkop/encuesta 2.png)
-![GitHub Logo](/destkop/encuesta 3.png)
-![GitHub Logo](/destkop/encuesta 4.png)
-![GitHub Logo](/destkop/encuesta 5.png)
-
-#####Conclusiones
+######Conclusiones
 
 
 ## Personas
