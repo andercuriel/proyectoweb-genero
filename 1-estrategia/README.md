@@ -22,7 +22,7 @@
 
 **Problema**
 
-Hemos observado que la audiencia ya no se suscribe a las páginas web como antes. Buscan únicamente un contenido concreto y se van. ¿Cómo podemos optimizar para lograr una identidad por su parte hacia nuestro sitio?
+Hemos visto que la audiencia ya no se suscribe a las páginas web como antes. Buscan únicamente un contenido concreto y se van. ¿Cómo podemos optimizar para lograr una identidad por su parte hacia nuestro sitio?
 
 </td><td rowspan=2 markdown="1">
 
