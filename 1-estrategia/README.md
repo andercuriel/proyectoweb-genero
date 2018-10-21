@@ -43,26 +43,26 @@ Mediante la encuesta conoceremos al usuario o posible cliente y averiguaremos su
 ### Características de una encuesta
 Antes de crear la encuesta hay que tener varias cosas en cuenta:
 
-•	**La encuesta tiene que tener un objetivo fijado**: nuestro objetivo es conocer las necesidades del usuario (qué quieren, cómo lo quieren, qué no quieren, etc.).
+	•	**La encuesta tiene que tener un objetivo fijado**: nuestro objetivo es conocer las necesidades del usuario (qué quieren, cómo lo quieren, qué no quieren, etc.).
 
-•	**Intentar encuestar a aquella persona que pueda estar interesado en el servicio**: en nuestro caso encuestaremos a personas de nuestro entorno, por cercanía y accesibilidad; sin embargo consideramos que nuestro entorno puede tener interés en acceder a nuestra página web, ya que nuestro publico objetivo es bastante amplio, personas mayores de 18 años. 
+	•	**Intentar encuestar a aquella persona que pueda estar interesado en el servicio**: en nuestro caso encuestaremos a personas de nuestro entorno, por cercanía y accesibilidad; sin embargo consideramos que nuestro entorno puede tener interés en acceder a nuestra página web, ya que nuestro publico objetivo es bastante amplio, personas mayores de 18 años. 
 
-•	**Encuesta breve y clara; es decir fácil de entender y responder**: nuestra encuesta contará con pocas preguntas, cómo máximo 10 preguntas, tanto abiertas (2), como cerradas (8). Las preguntas cerradas variaran, crearemos preguntas con respuestas dicotómicas, ponderativas, múltiples y de filtro. 
+	•	**Encuesta breve y clara; es decir fácil de entender y responder**: nuestra encuesta contará con pocas preguntas, cómo máximo 10 preguntas, tanto abiertas (2), como cerradas (8). Las preguntas cerradas variaran, crearemos preguntas con respuestas dicotómicas, ponderativas, múltiples y de filtro. 
 
-•	**Crear preguntas con sentido**: es importante crear unas preguntas que respondan al objetivo principal. Todas las preguntas tienen que ofrecernos información.. 
+	•	**Crear preguntas con sentido**: es importante crear unas preguntas que respondan al objetivo principal. Todas las preguntas tienen que ofrecernos información.. 
 
 ### La encuesta
 A continuación se encuentra la encuesta que hemos elaborado con el fin de conocer las necesidades de nuestros usuarios. La encuesta la hemos creado mediante los formularios de Google Drive y la hemos distribudo a nuestro entorno más cercano a través del correo electrónico. 
 
-![Alt Text](/Desktop/Encuesta 1.png) 
+![Alt Text](Encuesta 1) 
 
-![Alt Text](/Desktop/Encuesta 2.png)
+![Alt Text](Encuesta 2)
 
-![Alt Text](/Desktop/Encuesta 3.png)
+![Alt Text](Encuesta 3)
 
-![Alt Text](/Desktop/Encuesta 4.png)
+![Alt Text](Encuesta 4)
 
-![Alt Text](/Desktop/Encuesta 5.png)
+![Alt Text](Encuesta 5)
 
 ### Conclusiones
 
