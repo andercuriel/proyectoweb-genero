@@ -54,17 +54,7 @@ Antes de crear la encuesta hay que tener varias cosas en cuenta:
 ### La encuesta
 A continuación se encuentra la encuesta que hemos elaborado con el fin de conocer las necesidades de nuestros usuarios. La encuesta la hemos creado mediante los formularios de Google Drive y la hemos distribudo a nuestro entorno más cercano a través del correo electrónico. 
 
-
-
-![Encuesta](https://goo.gl/forms/gCcDXKLv31aDYlW92)
-
-![Encuesta parte 1](Desktop/Encuesta2.png)
-
-![Encuesta parte 1](Desktop/Encuesta3.png)
-
-![Encuesta parte 1](Desktop/Encuesta4.png)
-
-![Encuesta parte 1](Desktop/Encuesta5.png)
+[GitHub](https://goo.gl/forms/gCcDXKLv31aDYlW92)
 
 
 ### Conclusiones
