@@ -22,7 +22,7 @@
 
 **Problema**
 
-Hemos observado que la audiencia ya no se suscribe a las páginas web como antes. Buscan únicamente un contenido concreto y se van. ¿Cómo podemos mejorar para lograr una identidad por su parte hacia nuestro sitio?
+Hemos observado que la audiencia ya no se suscribe a las páginas web como antes. Buscan únicamente un contenido concreto y se van. ¿Cómo podemos optimizar para lograr una identidad por su parte hacia nuestro sitio?
 
 </td><td rowspan=2 markdown="1">
 
@@ -44,7 +44,7 @@ Lograr que el contenido suponga un aprendizaje para el usuario
 
 **Usuarios**
 
-Nuetsro público objetivo:
+Nuestro público objetivo:
 Personas entre 16 y 50 años
 
 </td><td markdown="1">
