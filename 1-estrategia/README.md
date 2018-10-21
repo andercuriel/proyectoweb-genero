@@ -35,26 +35,25 @@
 ## NECESIDADES DEL USUARIO
 
 ### Investigación de usuarios
-Como bien hemos comentado, nuestro proyecto es crear una página web relacionada con la **igualdad de género**. En esta página web se encontrarán noticias, reportajes, datos, videos, etc., y todo el contenido hallado en esa web tendrá el mismo objetivo: informar y educar. Creemos que nuestro público objetivo es bastante amplio, ya que tanto mujeres como hombres mayores de 18 años podrían tener interés en acceder a nuestra página web. Pero antes de crear nuestro producto debemos conocer a nuestros usuarios y sobre todo debemos percibir al máximo sus necesidades. ¿Pero cuáles son esas necesidades? 
+Como bien hemos comentado, nuestro proyecto web es crear una página web relacionada con la **igualdad de género**. En esta página web se encontrarán noticias, reportajes, datos, videos, etc. Todo el contenido hallado en este sitio web tendrá el siguiente objetivo: informar y educar. 
+En cuanto a nuestro público objetivo creemos que es bastante amplio, ya que tanto mujeres como hombres mayores de 18 años podrían tener interés en acceder a nuestra página web. Pero antes de crear nuestro producto debemos conocer a nuestros usuarios y sobre todo debemos percibir al máximo sus necesidades. ¿Pero cuáles son esas necesidades? 
 
-Para averiguar las necesidades del usuario hemos optado por crear una **encuesta**.
-Mediante la encuesta conoceremos al usuario o posible cliente y averiguaremos sus necesidades para poder adaptarnos y ofrecerles lo que necesitan. Los tres conceptos claves para afrontar una encuesta y ofrecer realmente un servicio útil son: tener empatía, escuchar y finalmente observar al encuestado. 
+Para averiguar las necesidades del usuario hemos optado por crear una **encuesta**.Mediante la encuesta conoceremos al usuario, o posible cliente, y averiguaremos sus necesidades para poder adaptarnos y ofrecerles lo que necesitan. Los cuatro conceptos claves para afrontar una encuesta y ofrecer realmente un servicio útil son: la empatía, la escucha,la observación y finalmente la obtención de conclusiones. 
 
 ### Características de una encuesta
 Antes de crear la encuesta hay que tener varias cosas en cuenta:
 
 •	**La encuesta tiene que tener un objetivo fijado**: nuestro objetivo es conocer las necesidades del usuario (qué quieren, cómo lo quieren, qué no quieren, etc.).
 
-•	**Intentar encuestar a aquella persona que pueda estar interesado en el servicio**: en nuestro caso encuestaremos a personas de nuestro entorno, por cercanía y accesibilidad; sin embargo consideramos que nuestro entorno puede tener interés en acceder a nuestra página web, ya que nuestro publico objetivo es bastante amplio, personas mayores de 18 años. 
+•	**Intentar encuestar a aquella persona que pueda estar interesado en el servicio**: en nuestro caso encuestaremos a personas de nuestro entorno, por cercanía y accesibilidad; consideramos que nuestro entorno puede tener interés en acceder a nuestra página web, ya que nuestro público objetivo es bastante amplio: personas mayores de 18 años. 
 
 •	**Encuesta breve y clara; es decir fácil de entender y responder**: nuestra encuesta contará con pocas preguntas, cómo máximo 10 preguntas, tanto abiertas (2), como cerradas (8). Las preguntas cerradas variaran, crearemos preguntas con respuestas dicotómicas, ponderativas, múltiples y de filtro. 
 
 •	**Crear preguntas con sentido**: es importante crear unas preguntas que respondan al objetivo principal. Todas las preguntas tienen que ofrecernos información.. 
 
-### La encuesta
 A continuación se encuentra la encuesta que hemos elaborado con el fin de conocer las necesidades de nuestros usuarios. La encuesta la hemos creado mediante los formularios de Google Drive y la hemos distribudo a nuestro entorno más cercano a través del correo electrónico. 
 
-[Encuesta: Conocer las necesidades de usuarios](https://goo.gl/forms/gCcDXKLv31aDYlW92)
+[Encuesta: Conocer las necesidades del usuario](https://goo.gl/forms/gCcDXKLv31aDYlW92)
 
 
 ### Conclusiones
