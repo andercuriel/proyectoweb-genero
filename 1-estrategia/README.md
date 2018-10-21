@@ -1,6 +1,6 @@
-# Plano de estrategia
+# PLANO DE ESTRATEGIA
 
-## Objetivos 
+## OBJETIVOS 
 
 ### Visión
 
@@ -15,35 +15,6 @@
 	* Creemos que a través de la organización correcta de todos los contenidos, a través de un mapa de sitio correcto, nos otorgaría mayor credibilidad acerca de nuestro objetivo de informar y educar a través de la igualdad de género. (¿Miren)?
 
 ### Circunstancias de uso
-
-* Quién: 
-	* Vamos a dirigirnos a personas residentes en Gipuzkoa de entre 16 y 50 años. La razón por la cual hemos escogido este segmento de edad reside principalmente en el uso que la población hace de Internet. Hemos observado que a partir de los 45 años el uso de Internet desciende notoriamente, tal y como indican los datos que hemos obtenido de Eustat, de ahí que limitar la edad del público objetivo hasta los 50 años nos permitiría llegar a un número considerable de usuarios de esta tecnología. 
-
-* Qué: 
-	* Nuestro producto contará con diferentes secciones, todo ello teniendo en cuenta que nuestro producto se basará en explotar las posibilidades de ofrecer los contenidos en diferentes soportes, como pueden ser podcast, reportajes y noticias, entre otros.
-
-* Cuándo y Donde: 
-	* Nuestro objetivo es adaptar nuestros contenidos a todos los dispositivos móviles que permiten navegar a través de la web, es decir, permitir visualizar todos los contenidos que publiquemos en distintos dispositivos. Sin embargo, sabemos que habrá contenidos que por su duración serán más cómodos de visualizar para el usuario en alguno de sus momentos libres del día. Sin embargo, contenidos como entrevistas, noticias o reportajes escritos y los podcasts serán más factibles de visionar o de reproducir en esos momentos del día en el que el usuario pueda realizar una actividad secundaria sujeta por ejemplo a un desplazamiento en transporte público.  
-
-* Para qué: 
-	* Nuestra función como grupo de comunicación consistirá principalmente en educar e informar, puesto que consideraremos que nuestros contenidos tendrán como principales funciones comunicativas informar a la población acerca de los sucesos que se producen y de cuál es la situación real en torno a la igualdad de género y ofrecer contenidos educativos a modo de enseñanza para concienciar a la población de cuáles son las actitudes hacia otras personas que hay que evitar, impedir y condenar.   
-
-### Criterios de diseño
-
-* Accesibilidad: 
-	* Nuestro objetivo, tal y como hemos mencionado anteriormente, es que la página web sea accesible para los usuarios a través de diferentes dispositivos. Es por ello que el diseño de la Interfaz tendrá que tener en cuenta una serie de detalles, como por ejemplo, la extensión de los contenidos no podrá excederse demasiado en lo que a anchura se refiere, y a su vez, la tipografía no podrá ser excesivamente grande. Tendremos que utilizar una tipografía que sea visible y que a su vez se adecúe al diseño que queremos implantar.    
-
-* Funcionalidad: 
-	* Uno de los aspectos fundamentales del diseño se basa en la funcionalidad, en conseguir que nuestro sitio web ofrezca una correcta respuesta a las peticiones que obtenga de nuestros usuarios. Pensamos que una buena forma para subir contenidos, sobre todo en aquellos casos en los que el tamaño de los mismos es algo más elevado de lo común, podría ser subir los contenidos a sitios web que funcionen como intermediarios para con nuestro contenido y nuestros usuarios. Por ejemplo, podríamos optar por subir nuestros archivos de vídeo y audio a las plataformas Youtube e Ivoox, respectivamente. El usuario encontraría un enlace de nuestros contenidos en estos sitios web, y nosotros conseguiríamos no solo ahorrar espacio y dinero, sino que además, aumentaríamos la posibilidad de que nuestros contenidos fueran vistos en otros sitios web. 
-
-* Findability: 
-	* Para solucionar las peticiones de aquellos usuarios que quieran encontrar algún contenido específico, ofreceremos un buscador por palabras o categorías, para lo cual etiquetaremos las palabras por palabras clave. De esta manera facilitaremos que nuestros usuarios puedan encontrar aquello que desean de una manera mucho más eficaz.  
-
-* Utilidad: 
-	* El sitio web permitirá a los usuarios compartir los contenidos que se publiquen a través de aplicaciones de mensajería instantánea. Además, en la parte inferior de cada publicación habrá un espacio destinado a ofrecer la posibilidad a los usuarios de que realicen su feedback a través de comentarios, sugerencias o críticas, por citar algunos ejemplos.  
-
-* Estética: 
-	* Tratándose de un sitio web cuyos fines principales son educar e informar, el diseño estéticamente hablando tendrá un carácter formal. Priorizaremos la correcta visión de todos los elementos que formen nuestro sitio web, en lugar de que visualmente el sitio sea bonito. Optaremos por colores neutros, así como por tipografías clásicas, que sean sencillas de interpretar. 
 
 ### Indicadores de éxito
 
@@ -68,18 +39,38 @@ Creemos que a través de los siguientes indicadores de éxito podremos comprobar
 * Valoración general  
 	* ¿Qué puntuación global le ofrecerías a nuestro sitio web? (1-5)
 
-## Necesidades del usuario
+## NECESIDADES DEL USUARIO
 
 ### Investigación de usuarios
+Como bien hemos comentado, nuestro proyecto web es crear una página web relacionada con la **igualdad de género**. En esta página web se encontrarán noticias, reportajes, datos, videos, etc. Todo el contenido hallado en este sitio web tendrá el siguiente objetivo: informar y educar. 
+En cuanto a nuestro público objetivo creemos que es bastante amplio, ya que tanto mujeres como hombres mayores de 18 años podrían tener interés en acceder a nuestra página web. Pero antes de crear nuestro producto debemos conocer a nuestros usuarios y sobre todo debemos percibir al máximo sus necesidades. ¿Pero cuáles son esas necesidades? 
 
-## Personas
+Para averiguar las necesidades del usuario hemos optado por crear una **encuesta**.Mediante la encuesta conoceremos al usuario, o posible cliente, y averiguaremos sus necesidades para poder adaptarnos y ofrecerles lo que necesitan. Los cuatro conceptos claves para afrontar una encuesta y ofrecer realmente un servicio útil son: la empatía, la escucha,la observación y finalmente la obtención de conclusiones. 
 
-## Lean UX Canvas
+### Características de una encuesta
+Antes de crear la encuesta hay que tener varias cosas en cuenta:
+
+•	**La encuesta tiene que tener un objetivo fijado**: nuestro objetivo es conocer las necesidades del usuario (qué quieren, cómo lo quieren, qué no quieren, etc.).
+
+•	**Intentar encuestar a aquella persona que pueda estar interesado en el servicio**: en nuestro caso encuestaremos a personas de nuestro entorno, por cercanía y accesibilidad; consideramos que nuestro entorno puede tener interés en acceder a nuestra página web, ya que nuestro público objetivo es bastante amplio: personas mayores de 18 años. 
+
+•	**Encuesta breve y clara; es decir fácil de entender y responder**: nuestra encuesta contará con pocas preguntas, cómo máximo 10 preguntas, tanto abiertas (2), como cerradas (8). Las preguntas cerradas variaran, crearemos preguntas con respuestas dicotómicas, ponderativas, múltiples y de filtro. 
+
+•	**Crear preguntas con sentido**: es importante crear unas preguntas que respondan al objetivo principal. Todas las preguntas tienen que ofrecernos información.. 
+
+A continuación se encuentra la encuesta que hemos elaborado con el fin de conocer las necesidades de nuestros usuarios. La encuesta la hemos creado mediante los formularios de Google Drive y la hemos distribudo a nuestro entorno más cercano a través del correo electrónico. 
+
+[Encuesta: Conocer las necesidades del usuario](https://goo.gl/forms/gCcDXKLv31aDYlW92)
+
+
+### Conclusiones
+
+
+## PERSONAS
+HOLA SOY YO
+
+## LEAN UX-CANVAS
 
 (plantilla/modelo en el documento `lean-ux-canvas.md`)
 
-## Referencias
-
-* EUSTAT. Población de 15 y más años de la C.A. de Euskadi usuaria de Internet por sexo, edad y relación con la actividad, según territorio histórico (%). 2018. Disponible online: http://www.eustat.eus/elementos/ele0000800/_Poblacion_de_15_y_mas_anos_de_la_CA_de_Euskadi_usuaria_de_Internet_por_sexo_edad_y_relacion_con_la_actividad_segun_territorio_historico_/tbl0000800_c.html
-
-* UX FOR THE MASSES. 6 key UX metrics to focus on. Disponible online: http://www.uxforthemasses.com/ux-metrics/
+## REFERENCIAS
