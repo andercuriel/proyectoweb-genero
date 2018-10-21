@@ -56,7 +56,7 @@ A continuación se encuentra la encuesta que hemos elaborado con el fin de conoc
 
 
 
-![Encuesta parte 1](Desktop/Encuesta1.png)
+![Encuesta](https://goo.gl/forms/gCcDXKLv31aDYlW92)
 
 ![Encuesta parte 1](Desktop/Encuesta2.png)
 
