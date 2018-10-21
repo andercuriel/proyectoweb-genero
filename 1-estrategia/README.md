@@ -16,6 +16,8 @@
 
 ### Personas
 
+### Lean UX Canvas
+
 ## Lean UX Canvas
 
 <table markdown="1"><tbody><tr><td markdown="1">
