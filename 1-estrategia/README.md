@@ -40,7 +40,7 @@ Como bien hemos comentado, nuestro proyecto es crear una página web relacionada
 Para averiguar las necesidades del usuario hemos optado por crear una **encuesta**.
 Mediante la encuesta conoceremos al usuario o posible cliente y averiguaremos sus necesidades para poder adaptarnos y ofrecerles lo que necesitan. Los tres conceptos claves para afrontar una encuesta y ofrecer realmente un servicio útil son: tener empatía, escuchar y finalmente observar al encuestado. 
 
-####Características de una encuesta
+#### Características de una encuesta
 Antes de crear la encuesta hay que tener varias cosas en cuenta:
 
 •	**La encuesta tiene que tener un objetivo fijado**: nuestro objetivo es conocer las necesidades del usuario (qué quieren, cómo lo quieren, qué no quieren, etc.).
@@ -51,20 +51,20 @@ Antes de crear la encuesta hay que tener varias cosas en cuenta:
 
 •	**Crear preguntas con sentido**: es importante crear unas preguntas que respondan al objetivo principal. Todas las preguntas tienen que ofrecernos información.. 
 
-######Encuesta
+##### Encuesta
 A continuación se encuentra la encuesta que hemos elaborado con el fin de conocer las necesidades de nuestros usuarios. La encuesta la hemos creado mediante los formularios de Google Drive y la hemos distribudo a nuestro entorno más cercano a través del correo electrónico. 
 
-![GitHub Logo](/Escritorio/encuesta 1.png)
+![GitHub Logo](/Escritorio/Encuesta 1.png) Encuesta 1
 
-![GitHub Logo](/Escritorio/encuesta 2.png)
+![GitHub Logo](/Escritorio/Encuesta 2.png)
 
-![GitHub Logo](/Escritorio/encuesta 3.png)
+![GitHub Logo](/Escritorio/Encuesta 3.png)
 
-![GitHub Logo](/Escritorio/encuesta 4.png)
+![GitHub Logo](/Escritorio/Encuesta 4.png)
 
-![GitHub Logo](/Escritorio/encuesta 5.png)
+![GitHub Logo](/Escritorio/Encuesta 5.png)
 
-######Conclusiones
+#### Conclusiones
 
 
 ## Personas
