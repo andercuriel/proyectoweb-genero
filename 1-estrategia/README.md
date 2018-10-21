@@ -58,7 +58,7 @@ Personas entre 16 y 50 años
 
 **Beneficios para los usuarios**
 
-Aprender sobre habitos saludables ante situaciones de desigualdad género
+Aprender sobre habitos saludables ante situaciones de desigualdad género.
 
 Informarse de todo lo relacionado con temas de igualdad de género
 
