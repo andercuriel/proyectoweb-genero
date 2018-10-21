@@ -103,3 +103,11 @@ HOLA SOY YO
 (plantilla/modelo en el documento `lean-ux-canvas.md`)
 
 ## REFERENCIAS
+
+* EUSTAT. Población de 15 y más años de la C.A. de Euskadi usuaria de Internet por sexo, edad y relación con la actividad, según territorio histórico (%). 2018. Disponible online: http://www.eustat.eus/elementos/ele0000800/_Poblacion_de_15_y_mas_anos_de_la_CA_de_Euskadi_usuaria_de_Internet_por_sexo_edad_y_relacion_con_la_actividad_segun_territorio_historico_/tbl0000800_c.html
+
+* UX FOR THE MASSES. 6 key UX metrics to focus on. Disponible online: http://www.uxforthemasses.com/ux-metrics/
+
+* Alan Cooper (2001), "Un diseño para dar placer" en Presos de la tecnología. Pearson Educación: México (pp. 123-148).
+
+
