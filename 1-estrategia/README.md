@@ -56,7 +56,7 @@ A continuación se encuentra la encuesta que hemos elaborado con el fin de conoc
 
 ! [Imagen de la encuesta 1] (Encuesta 1.png)
 
-! [Alt Text] (Encuesta 1) 
+! [texto alt] (Desktop / Encuesta 1.png)
 
 ! [Alt Text] (Encuesta 2)
 
