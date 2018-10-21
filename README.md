@@ -27,3 +27,4 @@ Eliminad o comentad (rodeando de `<!--` y `-->`) el texto entre las dos líneas 
 
 - Hernández Arrizabalaga, Iñigo 
 - Pérez Maza, Marina
+- Jon
