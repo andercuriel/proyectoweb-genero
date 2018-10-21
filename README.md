@@ -25,5 +25,6 @@ Eliminad o comentad (rodeando de `<!--` y `-->`) el texto entre las dos líneas 
 
 ## Participantes en el equipo
 
-- Hernández Arrizabalaga, Iñigo
-- ...
+- Hernández Arrizabalaga, Iñigo 
+- Pérez Maza, Marina
+- Jon

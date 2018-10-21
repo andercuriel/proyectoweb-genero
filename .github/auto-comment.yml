@@ -1,5 +1,5 @@
 pullRequestOpened: >
-  Acabas de iniciar un pull request para integrar los cambios que has ido realizando en tu repositorio personal, ¡bien! :thumbsup:
+  Acabas de iniciar un pull request para integrar los cambios que has ido realizando en tu branch personal, ¡bien! :thumbsup:
 
 
   Recuerda asignar los metadatos correctamente (a la derecha):
@@ -12,7 +12,7 @@ pullRequestOpened: >
   - En **Milestones**, asigna este pull request al borrador correspondiente (_Estrategia_, _Alcance_, _Estructura_, _Esqueleto_, _Superficie_).
 
 
-  Ahora podéis realizar los comentarios necesarios sobre estas modificaciones aquí debajo, y tú puedes seguir realizando cambios al branch de tu copia personal. Cuando la persona encargada de Control considere que esta aportación está como para integrar en el borrador, puede dar el OK al review, y entonces la persona encargada de la Coordinación podrá hacer merge e integrar las modificaciones en el repositorio central.
+  Ahora podéis realizar los comentarios necesarios sobre estas modificaciones aquí debajo, y tú puedes seguir realizando cambios a tu branch personal. Cuando la persona encargada de Control considere que esta aportación está como para integrar en el borrador, puede aprobar los cambios, y entonces la persona encargada de la Coordinación podrá hacer merge e integrar las modificaciones en el branch `master`.
 
 
   Como siempre, si tenéis dudas, mencionad a Miren.
